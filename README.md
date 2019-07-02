@@ -13,3 +13,7 @@ Open Data, Open Source Software and Collective Intelligence for Environmental Da
 
 <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
 
+### Data Science and Human Development
+
+<a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use
+of big data for development</a> (Blumenstock)

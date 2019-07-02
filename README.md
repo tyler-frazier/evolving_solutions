@@ -9,3 +9,7 @@ This course is an introductory exploration into the dimensions of global human d
 <a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
 Open Data, Open Source Software and Collective Intelligence for Environmental Data Creators and Users</a> (Hengl, Wheeler and MacMillan)
 
+### GIS versus Geospatial Data Science
+
+<a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
+

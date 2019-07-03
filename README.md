@@ -37,3 +37,4 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable">The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
 
+<a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7">Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)

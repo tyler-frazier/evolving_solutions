@@ -31,7 +31,9 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 <a href = "https://res.mdpi.com/data/data-03-00033/article_deploy/data-03-00033.pdf?filename=&attachment=1">Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 
+### Modeling Human Mobility, Movement Patterns and Migration
 
+<a href = "https://watermark.silverchair.com/mnu036.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkcwggJDBgkqhkiG9w0BBwagggI0MIICMAIBADCCAikGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoHpG0qDniGQ7ra_xAgEQgIIB-gj0CO_NrlHc2CUmzcFRHJI5VyyVuqCWjFE4ycPv_bQI-IIg4o2Y7e2YHtXv38M1O5AVjlaL8nyprWJ16hhdq-j8LsqJQB5LxXYf5LimJLCC36ntWmRIAZgp5GmqcQlaUYznqjSuY-wW2kH8dRaFeF__UCJD15jVbyaameFHQgfALU2KZlwovzgSbMSpDOe_aSE0WdbZe0Jmx9UbUSG9aNi1Q0Y2MHekva978D5SCAkWnVhpEF2EMygC-PRDZRNlK_aTCHP3SvD3NwnwjcZBmK2IUnUchBGOdjtHCzMcdip627vD4RmtsfwnM2IblIHWDpI6URhaIoGwoafaOLQUgeN75Y2oNPbLvxDqlbB3DasKBnvMLgFBpDekGrOMJKE7CH2urLFgZxiQfUPPMFTcN9A3c74XKDk1zilggfH3fBDWlyuHD0cbQNB3Nhz4DtaGJu4c0fzaCePqMYMwayffbuQpxZfRhciH1feOtc4Ep68SDG7ZdkwcIWGBHRXWkd4yfPoPqnoGAfCxTWNWTKqJmOnMBQu7247JYqcyN5JcvadvIO1wkC5_UfbvUAzJacKq0oXBivsbFOWQicJbt7QWanaaWzhc2LyEqtaw2HcS-tZVog-E8BRDxuLHYtcS8bZsLb1WAzesQ_ujMOTsbBSMt0KZs7XaOSkkGWN1">Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Reed et al.)
 
 
 

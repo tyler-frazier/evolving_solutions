@@ -25,7 +25,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### High Resolution Global Population Mapping
 
-<a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable">https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable</a> (Stevens et al.)
+<a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable">Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens et al.)
 
 
 <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf">Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)

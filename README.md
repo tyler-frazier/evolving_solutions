@@ -20,5 +20,5 @@ of big data for development</a> (Blumenstock)
 
 <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf">Dynamic population mapping using mobile phone data</a> (Deville et al.)
 
-<a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf">Spatially disaggregated population estimates
+<a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)

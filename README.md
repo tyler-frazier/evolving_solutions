@@ -17,3 +17,5 @@ Open Data, Open Source Software and Collective Intelligence for Environmental Da
 
 <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use
 of big data for development</a> (Blumenstock)
+
+<a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf">Dynamic population mapping using mobile phone data</a> (Devillea et al.)

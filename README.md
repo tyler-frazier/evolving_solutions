@@ -22,3 +22,7 @@ of big data for development</a> (Blumenstock)
 
 <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
+
+### High Resolution Global Population Mapping
+
+<a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable">https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable</a> (Stevens et al.)

@@ -25,6 +25,8 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### High Resolution Global Population Mapping
 
+dasymmetric population allocation  
+
 <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable">Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens et al.)
 
 <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf">Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
@@ -38,3 +40,6 @@ in the absence of national population and housing census data</a> (Wardrop et al
 <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable">The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
 
 <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7">Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
+
+### Agent-Based Models and Geosimulations
+

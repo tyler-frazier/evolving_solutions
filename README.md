@@ -23,7 +23,7 @@ of big data for development</a> (Blumenstock)
 <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
 
-### High Resolution Global Population Mapping
+### High Resolution Mapping of Population Location 
 
 dasymmetric population allocation  
 
@@ -32,6 +32,10 @@ dasymmetric population allocation
 <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf">Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 
 <a href = "https://res.mdpi.com/data/data-03-00033/article_deploy/data-03-00033.pdf?filename=&attachment=1">Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
+
+### Comprehensive and Detailed Modeling of Population Demographics 
+
+bayesian approaches
 
 ### Modeling Human Mobility, Movement Patterns and Migration
 

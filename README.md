@@ -119,29 +119,28 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 10 (Oct 28)
 - Tuesday: open discussion; continue Project 3
-  - <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
-  - <a href = "https://flowkit.xyz"> FlowKit</a>
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
 - Thursday: continue Project 3
-  - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf"> Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
+  - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
 
 ### Week 11 (Nov 4)
 - Tuesday: continue project 3
-  - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
+  - <a href = "https://www.nature.com/articles/sdata201666.pdf"> Mapping internal connectivity through human migration in malaria endemic countries</a> (Sorichetta et al.) 
 - Thursday: continue project 3
-  - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
-  
+  - <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
+  - <a href = "https://flowkit.xyz"> FlowKit</a>
 - __Assignment 3 Due__: Saturday Midnight
 
 ### Week 12 (Nov 11)
 - Tuesday: open discussion, assign groups, begin Assignment 4
-
+  - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf"> Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
 - Thursday: open discussion, group meetings, continue Project 4
+  - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
 
 ### Week 13 (Nov 18)
 - Tuesday: open discussion, group meetings, continue Project 4
-
+  - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
 - Thursday: open discussion, group meetings, continue Project 4
-
 
 ### Week 14 (Nov 25)
 - Tuesday: __In-Class Essay 2__

@@ -147,8 +147,8 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Thursday: No Class (Thanksgiving)
 
 ### Week 15 (Dec 2)
-- Tuesday:__Presentation of Group Projects__ (3 groups)
-- Thursday:__Presentation of Group Projects__(3 groups)
+- Tuesday: __Presentation of Group Projects__ (3 groups)
+- Thursday: __Presentation of Group Projects__(3 groups)
 
 ### Final
 - Wednesday, December 18th by 5PM: __Individual Project Due__

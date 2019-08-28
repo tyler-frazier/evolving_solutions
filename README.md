@@ -43,13 +43,39 @@ note .9 = .9 with bar notation
 
 |    |    |    |
 | --- | --- | --- |
-| Class & Group Participation | 20% | Individually graded, twice per semester |
-| Three Informal Group Presentations | 10% | Fridays during weeks 5, 8 & 11 |
-| Four Individual Projects | 40% | Due at the end of weeks 5, 8, 11 & 14 |
-| Final Group Presentation | 10% | Week 15 |
-| Final Individual Project | 20% | due by 5PM Wednesday, December 18th |
+| Class Participation | 20% | Twice per semester |
+| Two In-Class Essays | 10% | Twice per semester |
+| Three Assignments | 30% | Due at the end of weeks 5, 8, 11 & 14 |
+| Final Presentation | 15% | Weeks 14 & 15 |
+| Final Assignment | 25% | due by 5PM Wednesday, December 18th |
 
 # Semester Schedule
+
+### Week 1 (Aug 28)
+- Introductions
+- Syllabus
+- Slack
+
+### Week 2 (Sept 2)
+- Tuesday: open discussion; workshop
+  - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
+  - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
+- Thursday: open discussion; workshop
+  - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
+  - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
+- Friday: add/drop period ends
+
+### Week 3 (Sept 9) 
+- Tuesday: geospatial human development data; begin Assignment 1
+  - <a href = "https://www.worldpop.org/"> WorldPop</a>
+  - <a href = "https://www.gadm.org"> GADM</a>
+  - <a href = "https://data.humdata.org"> HDX</a>
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
+- Thursday: continue Project 1
+
+
+
 
 
 ### The Significance of Open Data, Open Source & Open Access Approaches
@@ -57,19 +83,15 @@ note .9 = .9 with bar notation
 <a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
 Open Data, Open Source Software and Collective Intelligence for Environmental Data Creators and Users</a> (Hengl, Wheeler and MacMillan)
 
-### GIS versus Geospatial Data Science
 
-<a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
 
 ### Data Science and Human Development
 
-<a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use
-of big data for development</a> (Blumenstock)
+
 
 <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf">Dynamic population mapping using mobile phone data</a> (Deville et al.)
 
-<a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
+
 
 ### High Resolution Mapping of Population Location 
 

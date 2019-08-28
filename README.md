@@ -102,15 +102,35 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Tuesday: open discussion, continue Assignment 2
   - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
 - Thursday: open discussion, continue Assignment 2
-  - <a href = "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
+  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
 
 ### Week 8 (Oct 14)
 - Tuesday: No Class (Fall Break)
 - Thursday: __In-Class Essay 1__
 - __Assignment 2 Due__: Saturday Midnight
 
+### Week 9 (Oct 21)
+- Tuesday: open discussion; begin Assignment 3
+  - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
+- Thursday: continue Assignment 3
+  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825">
+
+  - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
 
 
+### Week 14 (Nov 25)
+- Tuesday: group meeting
+
+- Assignment 4 Due__: Tuesday Noon 
+- Thursday: No Class (Thanksgiving)
+
+### Week 15 (Dec 2)
+- __Presentation of Group Projects__
+  - Tuesday: 3 groups
+  - Thursday: 3 groups
+
+### Final (Due December 18th by 5PM)
+- __Individual Project__
 
 
 

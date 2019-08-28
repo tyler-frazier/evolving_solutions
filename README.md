@@ -69,41 +69,54 @@ note .9 = .9 with bar notation
 
 ### Week 3 (Sept 9) 
 - Tuesday: open discussion; begin Assignment 1
-  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
   - <a href = "https://data.humdata.org"> HDX</a>
   - <a href = "https://www.gadm.org"> GADM</a>
-
+  - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
 - Thursday: open discussion; continue Assignment 1
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
+  - <a href = "https://www.openstreetmap.org/"> OSM</a>
+  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
+  - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
+
+### Week 4 (Sept 16)
+- Tuesday: open discussion; continue Assignment 1 
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+- Thursday: open discussion; continue Assignment 1
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+
+### Week 5 (Sept 23)
+- Tuesday: open discussion, continue Assignment 1
+    - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
+- Thursday: review of Assignment 1
+- __Assignment 1 Due__: Saturday Midnight
+
+### Week 6 (Sept 30)
+- Tuesday: open discussion; begin Assignment 2
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
+- Thursday: open discussion; continue Assignment 2
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
+
+### Week 7 (Oct 7)
+- Tuesday: open discussion, continue Assignment 2
+  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
+- Thursday: open discussion, continue Assignment 2
+  - <a href = "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
+
+### Week 8 (Oct 14)
+- Tuesday: No Class (Fall Break)
+- Thursday: __In-Class Essay 1__
+- __Assignment 2 Due__: Saturday Midnight
 
 
 
 
-### The Significance of Open Data, Open Source & Open Access Approaches
-
-<a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
-Open Data, Open Source Software and Collective Intelligence for Environmental Data Creators and Users</a> (Hengl, Wheeler and MacMillan)
 
 
-
-### Data Science and Human Development
-
+  - <a href = "https://www.pnas.org/content/111/45/15888"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
 
 
-<a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf">Dynamic population mapping using mobile phone data</a> (Deville et al.)
-
-
-
-### High Resolution Mapping of Population Location 
-
-dasymmetric population allocation  
-
-<a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable">Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens et al.)
-
-<a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf">Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
-
-<a href = "https://res.mdpi.com/data/data-03-00033/article_deploy/data-03-00033.pdf?filename=&attachment=1">Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 
 ### Comprehensive and Detailed Modeling of Population Demographics 
 

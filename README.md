@@ -60,9 +60,11 @@ note .9 = .9 with bar notation
 - Tuesday: open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
+  - <a href = "https://www.worldpop.org/"> WorldPop</a>
 - Thursday: open discussion; workshop
   - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
+  - <a href = "https://web.flowminder.org/work/research-innovation"> FlowMinder</a>
 - Friday: add/drop period ends
 
 ### Week 3 (Sept 9) 

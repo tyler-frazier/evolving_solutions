@@ -59,23 +59,23 @@ note .9 = .9 with bar notation
 ### Week 2 (Sept 2)
 - Tuesday: open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
-  - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
-  - <a href = "https://www.worldpop.org/"> WorldPop</a>
+  - <a href = "https://web.flowminder.org/work/research-innovation"> FlowMinder</a>
 - Thursday: open discussion; workshop
+  - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
   - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
-  - <a href = "https://web.flowminder.org/work/research-innovation"> FlowMinder</a>
+  - <a href = "https://www.worldpop.org/"> WorldPop</a>
 - Friday: add/drop period ends
 
 ### Week 3 (Sept 9) 
-- Tuesday: geospatial human development data; begin Assignment 1
-  - <a href = "https://www.worldpop.org/"> WorldPop</a>
-  - <a href = "https://www.gadm.org"> GADM</a>
-  - <a href = "https://data.humdata.org"> HDX</a>
+- Tuesday: open discussion; begin Assignment 1
   - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
-- Thursday: continue Project 1
+  - <a href = "https://data.humdata.org"> HDX</a>
+  - <a href = "https://www.gadm.org"> GADM</a>
 
+- Thursday: open discussion; continue Assignment 1
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
 
 
 

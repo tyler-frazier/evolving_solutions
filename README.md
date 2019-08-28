@@ -147,30 +147,8 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Thursday: No Class (Thanksgiving)
 
 ### Week 15 (Dec 2)
-- __Presentation of Group Projects__
-  - Tuesday: 3 groups
-  - Thursday: 3 groups
+- Tuesday:__Presentation of Group Projects__ (3 groups)
+- Thursday:__Presentation of Group Projects__(3 groups)
 
-### Final (Due December 18th by 5PM)
-- __Individual Project__
-
-
-
-  - <a href = "https://www.pnas.org/content/111/45/15888"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
-
-
-
-### Comprehensive and Detailed Modeling of Population Demographics 
-
-bayesian approaches
-
-### Modeling Human Mobility, Movement Patterns and Migration
-
-<a href = "https://watermark.silverchair.com/mnu036.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkcwggJDBgkqhkiG9w0BBwagggI0MIICMAIBADCCAikGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoHpG0qDniGQ7ra_xAgEQgIIB-gj0CO_NrlHc2CUmzcFRHJI5VyyVuqCWjFE4ycPv_bQI-IIg4o2Y7e2YHtXv38M1O5AVjlaL8nyprWJ16hhdq-j8LsqJQB5LxXYf5LimJLCC36ntWmRIAZgp5GmqcQlaUYznqjSuY-wW2kH8dRaFeF__UCJD15jVbyaameFHQgfALU2KZlwovzgSbMSpDOe_aSE0WdbZe0Jmx9UbUSG9aNi1Q0Y2MHekva978D5SCAkWnVhpEF2EMygC-PRDZRNlK_aTCHP3SvD3NwnwjcZBmK2IUnUchBGOdjtHCzMcdip627vD4RmtsfwnM2IblIHWDpI6URhaIoGwoafaOLQUgeN75Y2oNPbLvxDqlbB3DasKBnvMLgFBpDekGrOMJKE7CH2urLFgZxiQfUPPMFTcN9A3c74XKDk1zilggfH3fBDWlyuHD0cbQNB3Nhz4DtaGJu4c0fzaCePqMYMwayffbuQpxZfRhciH1feOtc4Ep68SDG7ZdkwcIWGBHRXWkd4yfPoPqnoGAfCxTWNWTKqJmOnMBQu7247JYqcyN5JcvadvIO1wkC5_UfbvUAzJacKq0oXBivsbFOWQicJbt7QWanaaWzhc2LyEqtaw2HcS-tZVog-E8BRDxuLHYtcS8bZsLb1WAzesQ_ujMOTsbBSMt0KZs7XaOSkkGWN1">Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia et al.)
-
-<a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable">The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
-
-<a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7">Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
-
-### Agent-Based Models and Geosimulations
-
+### Final
+- Wednesday, December 18th by 5PM: __Individual Project Due__

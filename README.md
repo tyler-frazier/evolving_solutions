@@ -115,17 +115,18 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Tuesday: open discussion; begin Assignment 3
   - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
 - Thursday: continue Assignment 3
-  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (
+  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
 
 ### Week 10 (Oct 28)
 - Tuesday: open discussion; continue Project 3
-  - - <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
+  - <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
+  - <a href = "https://flowkit.xyz"> FlowKit</a>
 - Thursday: continue Project 3
-
+  - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf" Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
 
 ### Week 11 (Nov 4)
 - Tuesday: continue project 3
-
+  - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a>
 - Thursday: continue project 3
 
 - __Assignment 3 Due__: Saturday Midnight

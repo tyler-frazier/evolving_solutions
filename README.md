@@ -45,8 +45,8 @@ note .9 = .9 with bar notation
 | --- | --- | --- |
 | Class Participation | 20% | Twice per semester |
 | Two In-Class Essays | 10% | Twice per semester |
-| Three Assignments | 30% | Due at the end of weeks 5, 8, 11 & 14 |
-| Final Presentation | 15% | Weeks 14 & 15 |
+| Three Assignments | 30% | Due at the end of weeks 5, 8 & 11 |
+| Final Presentation | 15% | Week 15 |
 | Final Assignment | 25% | due by 5PM Wednesday, December 18th |
 
 # Semester Schedule

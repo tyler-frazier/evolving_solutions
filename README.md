@@ -4,8 +4,8 @@ This course is an introductory exploration into the dimensions of global human d
 
 # Goals and Objectives:
 - To learn about the research process and how it can be used to build a knowledge base to support your writing.
-- To investigate a subject matter by defining its boundaries, identifying significant contribut- ing areas of interest and discarding non-essential and/or non-contributing information.
-- To use a body of knowledge as the basis for writing a research paper, including the formu- lation of a central research question
+- To investigate a subject matter by defining its boundaries, identifying significant contributing areas of interest and discarding non-essential and/or non-contributing information.
+- To use a body of knowledge as the basis for writing a research paper, including the formulation of a central research question
 - To produce a scientific article, including a literature review, methodological discussion, citations, bibliography, abstract and information about the author.
 - To challenge students to become apprentice scholars and identify a central research focus of interest.
 

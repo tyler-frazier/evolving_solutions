@@ -114,19 +114,19 @@ in the absence of national population and housing census data</a> (Wardrop et al
 ### Week 9 (Oct 21)
 - Tuesday: open discussion; begin Assignment 3
   - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
-- Thursday: continue Assignment 3
+- Thursday: open discussion, continue Assignment 3
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
 
 ### Week 10 (Oct 28)
 - Tuesday: open discussion; continue Assignment 3
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
-- Thursday: continue Assignment 3
+- Thursday: open discussion, continue Assignment 3
   - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
 
 ### Week 11 (Nov 4)
-- Tuesday: continue Assignment 3
+- Tuesday: open discussion, continue Assignment 3
   - <a href = "https://www.nature.com/articles/sdata201666.pdf"> Mapping internal connectivity through human migration in malaria endemic countries</a> (Sorichetta et al.) 
-- Thursday: continue Assignment 3
+- Thursday: open discussion, continue Assignment 3
   - <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
   - <a href = "https://flowkit.xyz"> FlowKit</a>
 - __Assignment 3 Due__: Saturday Midnight

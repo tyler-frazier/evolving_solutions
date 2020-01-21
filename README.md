@@ -51,12 +51,12 @@ note .9 = .9 with bar notation
 
 # Semester Schedule
 
-### Week 1 (Aug 28)
+### Week 1 (Jan 22)
 - Introductions
 - Syllabus
 - Slack
 
-### Week 2 (Sept 2)
+### Week 2 (Jan 27)
 - Tuesday: open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
   - <a href = "https://web.flowminder.org/work/research-innovation"> FlowMinder</a>
@@ -67,7 +67,7 @@ note .9 = .9 with bar notation
   - <a href = "https://www.worldpop.org/"> WorldPop</a>
 - Friday: add/drop period ends
 
-### Week 3 (Sept 9) 
+### Week 3 (Feb 3) 
 - Tuesday: open discussion; begin Assignment 1
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
   - <a href = "https://data.humdata.org"> HDX</a>
@@ -80,25 +80,25 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
   - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
 
-### Week 4 (Sept 16)
+### Week 4 (Feb 10)
 - Tuesday: open discussion; continue Assignment 1 
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
 - Thursday: open discussion; continue Assignment 1
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
 
-### Week 5 (Sept 23)
+### Week 5 (Feb 17)
 - Tuesday: open discussion, continue Assignment 1
     - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Thursday: review of Assignment 1
 - __Assignment 1 Due__: Saturday Midnight
 
-### Week 6 (Sept 30)
+### Week 6 (Feb 24)
 - Tuesday: open discussion; begin Assignment 2
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Thursday: open discussion; continue Assignment 2
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 
-### Week 7 (Oct 7)
+### Week 7 (Mar 2)
 - Tuesday: open discussion, continue Assignment 2
   - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
   - <a href = "https://dhsprogram.com"> DHS</a>
@@ -106,24 +106,24 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Thursday: open discussion, continue Assignment 2
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
 
-### Week 8 (Oct 14)
+### Week 8 (Mar 9)
 - Tuesday: No Class (Fall Break)
 - Thursday: __In-Class Essay 1__
 - __Assignment 2 Due__: Saturday Midnight
 
-### Week 9 (Oct 21)
+### Week 9 (Mar 16)
 - Tuesday: open discussion; begin Assignment 3
   - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
 - Thursday: open discussion, continue Assignment 3
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
 
-### Week 10 (Oct 28)
+### Week 10 (Mar 23)
 - Tuesday: open discussion; continue Assignment 3
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
 - Thursday: open discussion, continue Assignment 3
   - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
 
-### Week 11 (Nov 4)
+### Week 11 (Mar 30)
 - Tuesday: open discussion, continue Assignment 3
   - <a href = "https://www.nature.com/articles/sdata201666.pdf"> Mapping internal connectivity through human migration in malaria endemic countries</a> (Sorichetta et al.) 
 - Thursday: open discussion, continue Assignment 3
@@ -131,24 +131,24 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://flowkit.xyz"> FlowKit</a>
 - __Assignment 3 Due__: Saturday Midnight
 
-### Week 12 (Nov 11)
+### Week 12 (Apr 6)
 - Tuesday: open discussion, assign groups, begin Assignment 4
   - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf"> Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
 - Thursday: open discussion, group meetings, continue Assignment 4
   - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
 
-### Week 13 (Nov 18)
+### Week 13 (Apr 13)
 - Tuesday: open discussion, group meetings, continue Assignment 4
   - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
 - Thursday: open discussion, group meetings, continue Assignment 4
 
-### Week 14 (Nov 25)
+### Week 14 (Apr 20)
 - Tuesday: __In-Class Essay 2__
 - Thursday: No Class (Thanksgiving)
 
-### Week 15 (Dec 2)
+### Week 15 (Apr 27)
 - Tuesday: __Group Presentation__ (3 groups)
 - Thursday: __Group Presentation__ (3 groups)
 
 ### Final
-- Wednesday, December 18th by 5PM: __Research Proposal Due__
+- Wednesday, May 13th by 5PM: __Research Proposal Due__

@@ -104,7 +104,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://dhsprogram.com"> DHS</a>
   - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a>
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
-  - Thursday: __In-Class Essay 1__
+- Thursday: __In-Class Essay 1__
 
 ### Week 8 (Mar 9)
 - Tuesday: No Class (Spring Break)

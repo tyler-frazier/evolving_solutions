@@ -78,21 +78,23 @@ note .9 = .9 with bar notation
 
 - Thursday: open discussion; continue Assignment 1 (push)
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
-  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
   - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
 
 ### Week 4 (Feb 10)
 - Tuesday: open discussion; continue Assignment 1 
-  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+  - <a href = "https://slack-files.com/TFB8EJWF3-FN5V4DWQ5-9824c193ba"> Development as Freedom</a> (Amartya Sen, 1999)
 - Thursday: open discussion; continue Assignment 1
-  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
+
 
 ### Week 5 (Feb 17)
 - Tuesday: open discussion, continue Assignment 1
-    - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Thursday: review of Assignment 1
 - __Assignment 1 Due__: Saturday Midnight
 

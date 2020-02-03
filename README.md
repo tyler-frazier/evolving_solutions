@@ -69,6 +69,7 @@ note .9 = .9 with bar notation
 
 ### Week 3 (Feb 3) 
 - Tuesday: open discussion; begin Assignment 1
+  - <a href = "https://tyzao.gitbook.io/geodatasci/assignment1/annobib"> Link to Assignment 1</a> Write an Annotated Bibliography
   - <a href = "https://soundcloud.com/hdro-web/what-is-human-development"> What is Human Development</a> (Selim Jahan, Director of UNDP's Human Development Report Office)
   - <a href = "https://soundcloud.com/hdro-web/hdr2015theme"> What is Human Development, continued</a> (Selim Jahan, Director of UNDP's Human Development Report Office)
   - <a href = "https://www.gapminder.org/videos/ted-talks/hans-rosling-ted-2006-debunking-myths-about-the-third-world/"> The Best Stats You've Never Seen</a> (Hans Rosling, Gapminder)
@@ -76,7 +77,7 @@ note .9 = .9 with bar notation
   - <a href = "https://www.gadm.org"> GADM</a>
   - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
 
-- Thursday: open discussion; continue Assignment 1 (push)
+- Thursday: open discussion; continue Assignment 1
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>

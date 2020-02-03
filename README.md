@@ -69,7 +69,7 @@ note .9 = .9 with bar notation
 
 ### Week 3 (Feb 3) 
 - Tuesday: open discussion; begin Assignment 1
-  - <a href = "https://tyzao.gitbook.io/geodatasci/assignment1/annobib"> Link to Assignment 1</a> Write an Annotated Bibliography
+  - <a href = "https://wicked-problems.github.io/workshop/annotated_bib"> Link to Assignment 1</a> Write an Annotated Bibliography
   - <a href = "https://soundcloud.com/hdro-web/what-is-human-development"> What is Human Development</a> (Selim Jahan, Director of UNDP's Human Development Report Office)
   - <a href = "https://soundcloud.com/hdro-web/hdr2015theme"> What is Human Development, continued</a> (Selim Jahan, Director of UNDP's Human Development Report Office)
   - <a href = "https://www.gapminder.org/videos/ted-talks/hans-rosling-ted-2006-debunking-myths-about-the-third-world/"> The Best Stats You've Never Seen</a> (Hans Rosling, Gapminder)

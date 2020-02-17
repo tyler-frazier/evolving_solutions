@@ -93,7 +93,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 5 (Feb 17)
 - Tuesday: open discussion, continue Assignment 1
-  - <a href = "https://soundcloud.com/tyler-frazier-982923313/development-complexity-by-owen-barder"> Development and Complexity</a> (Owen Barder, 2012)
+  - <a href = "https://www.youtube.com/watch?v=02EZPxPcFqs"> Development and Complexity</a> (Owen Barder, 2012)
   - <a href = "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LivRaDWdoVboUIKeGNK%2F-Lq4IjZXwr9I85uFHZJ8%2F-Lq4JN3KOMsc08l5Enj6%2FDevelopment_and_Complexity_Slides.pdf?alt=media&token=57eee8e4-b59e-4152-9888-58d98e5c53f7"> Accompanying slides to Development and Complexity</a> (Owen Barder, 2012)
 - Thursday: review of Assignment 1
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)

@@ -156,7 +156,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 14 (Apr 20)
 - Tuesday: __In-Class Essay 2__
-- Thursday: No Class (Thanksgiving)
+- Thursday: ...
 
 ### Week 15 (Apr 27)
 - Tuesday: __Group Presentation__ (3 groups)

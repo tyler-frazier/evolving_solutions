@@ -103,20 +103,12 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Tuesday: open discussion; begin Assignment 2
   - <a href = "https://www.wired.com/2008/06/pb-theory/"> The End of Theory: The Data Deluge makes the Scientific Method Obsolete</a> (Anderson)
   - <a href = "http://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"> Big Data, New Epistemologies and Paradigm Shifts</a> (Kitchin)
-
-
-  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
-  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
-  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Thursday: open discussion; continue Assignment 2
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
-
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+  
 ### Week 7 (Mar 2)
 - Tuesday: open discussion, continue Assignment 2
-  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
-  - <a href = "https://dhsprogram.com"> DHS</a>
-  - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a>
-  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
+  - <a href = "https://wm.kanopy.com/video/african-election"> An African Election - Ghana’s Democracy in Action</a> (Merz)
 - Thursday: __In-Class Essay 1__
 
 ### Week 8 (Mar 9)
@@ -126,6 +118,13 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 9 (Mar 16)
 - Tuesday: open discussion; begin Assignment 3
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
+  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
+  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
+  - <a href = "https://dhsprogram.com"> DHS</a>
+  - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a>
+  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
   - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
 - Thursday: open discussion, continue Assignment 3
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)

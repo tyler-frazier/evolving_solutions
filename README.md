@@ -101,6 +101,10 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 6 (Feb 24)
 - Tuesday: open discussion; begin Assignment 2
+  - <a href = "https://www.wired.com/2008/06/pb-theory/"> The End of Theory: The Data Deluge makes the Scientific Method Obsolete</a> (Anderson)
+  - <a href = "http://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"> Big Data, New Epistemologies and Paradigm Shifts</a> (Kitchin)
+
+
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)

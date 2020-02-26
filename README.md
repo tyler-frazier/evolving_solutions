@@ -100,10 +100,11 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - __Assignment 1 Due__: Saturday Midnight
 
 ### Week 6 (Feb 24)
-- Tuesday: open discussion; begin Assignment 2
+- Tuesday: open discussion
   - <a href = "https://www.wired.com/2008/06/pb-theory/"> The End of Theory: The Data Deluge makes the Scientific Method Obsolete</a> (Anderson)
   - <a href = "http://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"> Big Data, New Epistemologies and Paradigm Shifts</a> (Kitchin)
-- Thursday: open discussion; continue Assignment 2
+- Thursday: begin Assignment 2; open discussion
+  - <a href = "https://wicked-problems.github.io/workshop/lit_review"> Link to Assignment 2</a> Write a Literature Review
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
   
 ### Week 7 (Mar 2)

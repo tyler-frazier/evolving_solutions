@@ -115,11 +115,11 @@ in the absence of national population and housing census data</a> (Wardrop et al
 ### Week 8 (Mar 9)
 - Tuesday: No Class (Spring Break)
 - Thursday:  No Class (Spring Break)
-- __Assignment 2 Due__: Saturday Midnight
 
 ### Week 9 (Mar 16)
-- Tuesday: open discussion; begin Assignment 3
+- Tuesday: open discussion; continue Assignment 2
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
+- Thursday: open discussion, continue Assignment 2
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
   - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
@@ -127,7 +127,6 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a>
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
   - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
-- Thursday: open discussion, continue Assignment 3
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
 
 ### Week 10 (Mar 23)
@@ -135,6 +134,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
 - Thursday: open discussion, continue Assignment 3
   - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
+  - __Assignment 2 Due__: Saturday Midnight
 
 ### Week 11 (Mar 30)
 - Tuesday: open discussion, continue Assignment 3

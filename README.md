@@ -121,57 +121,48 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Thursday: cancelled
 
 ### Week 10 (Mar 23)
-- Tuesday: open discussion; continue Assignment 3
-  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
-  - <a href = "https://dhsprogram.com"> DHS</a>
-  - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a>
-  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
-  - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
-  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
-  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
-- Thursday: open discussion, continue Assignment 3
-  - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
-  - __Assignment 2 Due__: Saturday Midnight
-
-### Week 10 (Mar 23)
-- Tuesday: open discussion; continue Assignment 3
-  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
-  - <a href = "https://dhsprogram.com"> DHS</a>
-  - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a>
-  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
-  - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
-  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
-  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052971&type=printable"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
-- Thursday: open discussion, continue Assignment 3
-  - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
-  - __Assignment 2 Due__: Saturday Midnight
-
+-Begin remote instruction, all instruction will be live via Zoom at our normally scheduled class times. A link to the live video feed will be posted on the slack channel for the current project.
+- Tuesday: reconnect; continue Assignment 2
+  - <a href = "https://spatialdata.dhsprogram.com/home/"> DHS Spatial Program</a> *just for review, consider use when reading Alegana et al. and Bosco et al.*
+  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a> *just for review, consider use when reading Alegana et al. and Bosco et al.*
+  - <a href = "https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf"> Guidance for Use of The DHS Program Modeled Map Surfaces</a> *just for review, consider use when reading Alegana et al. and Bosco et al.*
+- Thursday: open discussion, continue Assignment 2
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
+  
 ### Week 11 (Mar 30)
+- Tuesday: open discussion; continue Assignment 2
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.) 
+- Thursday: open discussion, continue Assignment 2
+  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
+  - __Assignment 2 Due__: Sunday Midnight
+
+### Week 12 (Apr 6)
+- Tuesday: Begin Assignment 3
+  - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
+- Thursday: open discussion, continue Assignment 3
+  - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)
+
+### Week 13 (Apr 13)
 - Tuesday: open discussion, continue Assignment 3
   - <a href = "https://www.nature.com/articles/sdata201666.pdf"> Mapping internal connectivity through human migration in malaria endemic countries</a> (Sorichetta et al.) 
 - Thursday: open discussion, continue Assignment 3
   - <a href = "https://www.pnas.org/content/pnas/111/45/15888.full.pdf"> Dynamic population mapping using mobile phone data</a> (Deville et al.)
-  - <a href = "https://flowkit.xyz"> FlowKit</a>
-- __Assignment 3 Due__: Saturday Midnight
-
-### Week 12 (Apr 6)
-- Tuesday: open discussion, assign groups, begin Assignment 4
-  - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf"> Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
-- Thursday: open discussion, group meetings, continue Assignment 4
-  - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
-
-### Week 13 (Apr 13)
-- Tuesday: open discussion, group meetings, continue Assignment 4
-  - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
-- Thursday: open discussion, group meetings, continue Assignment 4
+- __Assignment 3 Due__: Sunday Midnight
 
 ### Week 14 (Apr 20)
-- Tuesday: __In-Class Essay 2__
-- Thursday: ...
+- Tuesday: __Remote In-Class Essay 2__
+- Thursday: __Final Individual Presentations__ (5 presentations)
 
 ### Week 15 (Apr 27)
-- Tuesday: __Group Presentation__ (3 groups)
-- Thursday: __Group Presentation__ (3 groups)
+- Tuesday: __Final Individual Presentations__ (5 presentations)
+- Thursday: __Final Individual Presentations__ (5 presentations)
 
-### Final
+### Final Individual Project
 - Wednesday, May 13th by 5PM: __Research Proposal Due__
+
+Additional Relevant Readings:
+  - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf"> Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
+  - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
+  - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
+
+

@@ -138,6 +138,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 12 (Apr 6)
 - Tuesday: Begin Assignment 3
+  - <a href = "https://wicked-problems.github.io/workshop/methodology"> Link to Assignment 3</a> Investigate a Methodology
   - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
 - Thursday: open discussion, continue Assignment 3
   - <a href = "https://academic.oup.com/migration/article/3/1/89/2413406"> Modeling internal migration flows in sub-Saharan Africa using census microdata</a> (Garcia, Pindolia, Lopiano & Tatem)

@@ -153,6 +153,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 ### Week 14 (Apr 20)
 - Tuesday: __Remote In-Class Essay 2__
   - <a href = "https://wicked-problems.github.io/workshop/presentation"> Link to Assignment 4, Part 1</a> Make a Public Presentation
+  - <a href = "https://wicked-problems.github.io/workshop/plan"> Link to Assignment 4, Part 2</a> Propose a Research Plan
 - Thursday: Dry Run for Presenting (Draft of) Slides
 
 ### Week 15 (Apr 27)

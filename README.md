@@ -152,11 +152,12 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 14 (Apr 20)
 - Tuesday: __Remote In-Class Essay 2__
-- Thursday: __Final Individual Presentations__ (5 presentations)
+  - <a href = "https://wicked-problems.github.io/workshop/presentation"> Link to Assignment 4, Part 1</a> Make a Public Presentation
+- Thursday: Dry Run for Presenting (Draft of) Slides
 
 ### Week 15 (Apr 27)
-- Tuesday: __Final Individual Presentations__ (5 presentations)
-- Thursday: __Final Individual Presentations__ (5 presentations)
+- Tuesday: __Final Individual Presentations__ (~8 presentations)
+- Thursday: __Final Individual Presentations__ (~8 presentations)
 
 ### Final Individual Project
 - Wednesday, May 13th by 5PM: __Research Proposal Due__

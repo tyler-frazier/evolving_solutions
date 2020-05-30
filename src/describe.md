@@ -1,20 +1,20 @@
-# DATA 100: Wicked Problems
+# DATA 150: Human Development/Data Science
 
-Course ID: DATA 100   
-Course Attribute: COLL 100   
-Title: Wicked Problems    
+Course ID: DATA 150   
+Course Attribute: COLL 150   
+Title: Evolving Solutions: Human Development/Data Science  
 Credit Hours: 4  
-Meeting Times: 11:00 to 11:50 MWF  
-Location: ISC 3248  
-Date Range: Aug 26,2020 - Dec 15,2020  
+Meeting Times: 9:30 to 10:50 TTh 
+Location: Morton Hall 244  
+Date Range: Aug 26,2020 - Dec 15,2020   
 
-# Course Description
+# Course Description  
 
-Global, near present-time, high-resolution data is openly accessible to construct scientific descriptions ofhuman development. In this course you will use data describing populations, governments, and both the natural and built environments in order to construct a close-to-reality description of your selected region or country. You will then intersect a selected dimension of human development as an initial boundary for investigating a contextually relevant research question. While development is often thought of as a “missing ingredient” that is needed to improve the well-being of people or the output of firms, in this course human development is defined as the ability to enlarge people’s choices, capabilities and freedoms and is understood as an emergent property from our complex and adapting economic and social system. Data science methods are used to constructclose-to-reality descriptions of human development processes in order to identify interactions, describe co-evolving agents, recognize the conditions prevalent for emergence, understand the significance of scale and ultimately begin to establish a framework for analyzing human development’s multitude of seemingly intractable, wicked problems.  During this course you will also learn to use the flexible data science, programming language R, but no prior experience is needed. Pre-requisite(s): None
+This course provides an introduction to critical, ethical, and moral issues surrounding data and society. It blends social and historical perspectives on data with ethics, policy, and case examples—from text analytics to self-driving cars—to help students develop a workable understanding of current ethical and moral issues in data science. The course examines the ethics and morality of studying human subjects, documenting workflows, and communicating results. Students debate issues surrounding privacy, surveillance, discrimination, transparency, responsibility, and trust throughout the data lifecycle –from collection and creation to storage and analysis to the application and sharing of data. Pre-requisite(s): None
 
-# Courses Objectives
-- To introduce students to human development as the ability to enlarge people’s choices, capabilities and freedoms and as an emergent property from society functioning as a complex adaptive social and economic system.
-- To introduce students to data science through understanding previously computationally intractable, wicked problems.
-- To demonstrate competent information literacy and data science skills by producing knowledge from data through the creation of plots, graphs, charts and maps.
-- To demonstrate competent application of fundamental computer science and statistics methods within the context of geospatial human development processes.
-- To challenge students to become apprentice scholars by supporting their answer to a formulated central research question with close-to-reality geospatial descriptions of human development processes.
+# Goals and Objectives:
+- To learn about the research process and how it can be used to build a knowledge base to support your writing.
+- To investigate a subject matter by defining its boundaries, identifying significant contributing areas of interest and discarding non-essential and/or non-contributing information.
+- To use a body of knowledge as the basis for writing a research paper, including the formulation of a central research question
+- To produce a scientific article, including a literature review, methodological discussion, citations, bibliography, abstract and information about the author.
+- To challenge students to become apprentice scholars and identify a central research focus of interest.

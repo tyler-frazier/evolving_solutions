@@ -21,3 +21,12 @@ I am committed to the principle of universal learning. This means that our class
 | failing F < 60.0 |
 
 note .9 = .9 with bar notation
+
+# Grading Opportunities
+
+|    |    |    |
+| --- | --- | --- |
+| Three informal presentations | 20% | Due every third Friday |
+| Weekly informal responses | 20% | Due on a regular basis |
+| Four formal writing assignments | 40% | Due every third Saturday |
+| Final project | 20% | due by 5PM Tuesday, November 24th |

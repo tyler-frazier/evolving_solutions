@@ -1,7 +1,8 @@
 # Semester Schedule
 
 ## Week 1 (August 19th)
-- Thursday: first day of class 
+- Thursday: first day of class
+	- Introductions, zoom, slack, GitHub 
 
 ## Week 2 (August 24st)
 - Tuesday:
@@ -10,15 +11,18 @@
 
 ## Week 3 (August 31st)
 - Tuesday:
-- Thursday:
+- Thursday: 
 
 ## Week 4 (September 7th) 
 - Tuesday:
-- Thursday:
+- Thursday: 
 
 ## Week 5 (September 14th)
 - Tuesday:
 - Thursday:
+	- Human Development & Data Science Insights
+- Saturday:
+	- Assignment 1 due 
 
 ## Week 6 (September 21st)
 - Tuesday:
@@ -31,6 +35,9 @@
 ## Week 8 (October 5th)
 - Tuesday:
 - Thursday:
+	- Human Development & Data Science Insights 
+- Saturday:
+	- Assignment 2 due 
 
 ## Week 9 (October 12th)
 - Tuesday:
@@ -43,6 +50,9 @@
 ## Week 11 (October 26th)
 - Tuesday:
 - Thursday:
+	- Human Development & Data Science Insights  
+- Saturday:
+	- Assignment 3 due  
 
 ## Week 12 (November 2nd)
 - Tuesday:
@@ -50,7 +60,9 @@
 
 ## Week 13 (November 9th)
 - Tuesday:
-- Thursday: last day of class
+	- Final Presentations (Knowledge creation)
+- Thursday:
+	- Final Presentations (Knowledge creation)
 
 ## Final
 

@@ -2,7 +2,10 @@
 
 ## Week 1 (August 19th)
 - Thursday: first day of class
-	- Introductions, zoom, slack, GitHub 
+	- Introductions, zoom, slack, GitHub
+	- For next time:
+		- [Getting Started with GitHub](https://tyler-frazier.github.io/dsbook/gitstart.html)
+		- [Don’t forget people in the use of big data for development, Joshua Blumenstock.  Nature: Sept. 10, 2018](https://www.nature.com/articles/d41586-018-06215-5)
 
 ## Week 2 (August 24st)
 - Tuesday:

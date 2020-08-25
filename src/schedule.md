@@ -9,6 +9,8 @@
 
 ## Week 2 (August 24st)
 - Tuesday:
+	- For next time:
+		- [The Best Stats You've Ever Seen, Hans Rosling.  TEDx: February, 2006](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en)
 - Thursday:
 - Friday: add/drop period ends
 

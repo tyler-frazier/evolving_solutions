@@ -2,6 +2,7 @@
 [Course Description](./describe.md)
 [Expectations and Assessment](./expect.md)
 [Semester Schedule](./schedule.md)
+[Student Work](./work.md)
 - [Formal Writing Assignments](./assignments.md)
 	- [Assignment 1](./assignment1.md)
 	- [Assignment 2](./assignment2.md)

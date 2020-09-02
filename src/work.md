@@ -13,4 +13,6 @@
 - [Ziyue Feng](https://ziyue-feng.github.io/data150_work/)
 - [Bryan Huffman](https://bryanhuffman.github.io/DATA-150/)
 - [Kaori Southall](https://github.com/ksouthall2022/coll-150)
+- [Sebastian Ruiz](...)
+- [Karl Utheim](...)
 

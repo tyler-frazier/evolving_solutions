@@ -12,20 +12,34 @@
 	- For next time:
 		- [The Best Stats You've Ever Seen, Hans Rosling.  TEDx: February, 2006](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en)
 - Thursday:
+	-  Groundwork Webinar by Azavea & Radiant Hub
 - Friday: add/drop period ends
 
 ## Week 3 (August 31st)
 - Tuesday:
-- Thursday: 
+	- Discuss Data Science / Human Development application 
+	- Introduce Assignment 1: Write an Annotated Bibliography
+	- For next time:
+		- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Introduction: Development as Freedom
+		- Discuss possible human development topic selections
+- Thursday:
+	- For next time:
+		- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Chapter 1: The Perspective of Freedom
+		- Select and prepare to discuss 3 sources
+		- Annotate 1 source
 
 ## Week 4 (September 7th) 
 - Tuesday:
+	- For next time:
+		- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Chapter 2: The Ends and the Means of Development
+		- Select and prepare to discuss 5 sources
+		- Annotate 2 sources
 - Thursday: 
 
 ## Week 5 (September 14th)
 - Tuesday:
 - Thursday:
-	- Human Development & Data Science Insights
+	- Human Development & Data Science Insights: Select and then investigate a new and interesting data science method that is being applied to a human development problem. Write a brief introduction to the method including describing how it functions as well as how it is typically applied. Post your 1 page insight piece to your GitHub Pages site and be sure to link it back to your index. Be prepared to make a 5 minute presentation on your human development & data science insight during class.
 - Saturday:
 	- Assignment 1 due 
 

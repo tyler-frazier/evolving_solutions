@@ -1,8 +1,4 @@
----
-description: Write an Annotated Bibliography
----
-
-# Assignment
+# Assignment 1: Write an Annotated Bibliography
 
 ## Summary
 
@@ -29,15 +25,15 @@ Begin by proposing a research topic you would like to investigate this semester.
 
 Making an appointment with a research librarian at Swem in order to receive assistance and individual attention is a good place to start.  Be sure to share your assignment with your Research Librarian in advance of meeting, so she/he will be best prepared at the time you meet.
 
-{% embed url="https://libraries.wm.edu/appointments" %}
+[Swem Library Appointment](https://libraries.wm.edu/appointments)
 
 Publications made available on the [flowminder](https://web.flowminder.org/work/research-innovation) and [worldpop](https://www.worldpop.org/publications) websites are also both good places to start with your investigation.  After selecting your four articles, annotate each one, by identifying and describing the most important ideas presented in each work.  Identify and describe the significant harm \(development problem\) each article is seeking to address.  Also identify and describe the inherent and complex nature of the development problem as it pertains to the region or country of investigation.  Additionally, answer the following questions.
 
 * How does this article relate to Amartya Sen’s definition of human development?
 * Which dimension of human development is being addressed by the authors’ research?
 * Which sustainable development goals can be considered in relation to your selected article?
-* Which \(geospatial\) datasets are used by the authors?
-* Which \(geospatial\) data science methods are used by the authors?
+* Which (geospatial) datasets are used by the authors?
+* Which (geospatial) data science methods are used by the authors?
 * Which human development pattern or process are the authors investigating?
 * What is the scientific question the authors are seeking to answer?
 
@@ -45,5 +41,5 @@ After selecting a research topic and annotating each source propose a region, co
 
 ## Deliverable
 
-Type your annotated bibliography.  Your annotated bibliography should be at least 2000 words in length and include a minimum of 5 different sources. Title your annotated bibliography and be sure to include your name. Note your word count on the first page.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography to your github site and post a link to the webpage on slack channel [\#data150\_assignment1](https://wmdsi.slack.com/archives/CTFA0R00Y) no later than 10PM, Saturday, February 22nd.
+Type your annotated bibliography.  Your annotated bibliography should be at least 2000 words in length and include a minimum of 5 different sources. Title your annotated bibliography and be sure to include your name. Note your word count on the first page.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography as link on the index of your GitHub pages site no later than 6PM, Saturday, September 19th.
 

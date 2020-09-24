@@ -44,8 +44,13 @@
 	- Assignment 1 due 
 
 ## Week 6 (September 21st)
-- Tuesday:
-- Thursday:
+- Tuesday: Class cancelled due to illness
+- Thursday: 
+	- Review Assignment 1 - Annotated Bibliography
+	- Introduce Assignment 2 - Literature Review
+	- For next time:
+		- [The End of Theory by Chris Anderson](https://wmdsi.slack.com/files/UFB4J4PMW/F01B54AG1PE/anderson_end_of_theory.pdf)
+		- [Big Data, new epistemologies and paradigm shifts by Rob Kitchin](https://wmdsi.slack.com/files/UFB4J4PMW/F01AVRBTH45/kitchin_newepists.pdf)
 
 ## Week 7 (September 28th)
 - Tuesday:
@@ -54,13 +59,13 @@
 ## Week 8 (October 5th)
 - Tuesday:
 - Thursday:
-	- Human Development & Data Science Insights 
-- Saturday:
-	- Assignment 2 due 
+	- Human Development & Data Science Insights: Select and then investigate a new and interesting data science method that is being applied to a human development problem. Write a brief introduction to the method including describing how it functions as well as how it is typically applied. Post your 1 page insight piece to your GitHub Pages site and be sure to link it back to your index. Be prepared to make a 5 minute presentation on your human development & data science insight during class.
 
 ## Week 9 (October 12th)
 - Tuesday:
 - Thursday:
+- Saturday:
+	- Assignment 2 due 
 
 ## Week 10 (October 19th)
 - Tuesday:
@@ -68,20 +73,20 @@
 
 ## Week 11 (October 26th)
 - Tuesday:
-- Thursday:
-	- Human Development & Data Science Insights  
-- Saturday:
-	- Assignment 3 due  
+- Thursday: 
 
 ## Week 12 (November 2nd)
 - Tuesday:
 - Thursday:
+	- Human Development & Data Science Knowledge Creation  
+- Saturday:
+	- Assignment 3 due 
 
 ## Week 13 (November 9th)
 - Tuesday:
-	- Final Presentations (Knowledge creation)
+	- Final Presentations
 - Thursday:
-	- Final Presentations (Knowledge creation)
+	- Final Presentations
 
 ## Final
 

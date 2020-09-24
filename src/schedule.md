@@ -49,8 +49,8 @@
 	- Review Assignment 1 - Annotated Bibliography
 	- Introduce Assignment 2 - Literature Review
 	- For next time:
-		- [The End of Theory by Chris Anderson](https://wmdsi.slack.com/files/UFB4J4PMW/F01B54AG1PE/anderson_end_of_theory.pdf)
-		- [Big Data, new epistemologies and paradigm shifts by Rob Kitchin](https://wmdsi.slack.com/files/UFB4J4PMW/F01AVRBTH45/kitchin_newepists.pdf)
+		- [The End of Theory by Chris Anderson](https://slack-files.com/TFB8EJWF3-F01B54AG1PE-ecfd9439bd)
+		- [Big Data, new epistemologies and paradigm shifts by Rob Kitchin](https://slack-files.com/TFB8EJWF3-F01AVRBTH45-e5bb3a6a58)
 
 ## Week 7 (September 28th)
 - Tuesday:

@@ -10,9 +10,8 @@
 - [Kai Bermudez](https://kaibermudez1.github.io/datasciencekaibermudez/)
 - [Noah Schulman](https://noahschulman14.github.io/DATA-150/)
 - [Kaitlyn Crowley](https://kmcrowley3.github.io/data150/)
+- [Kaori Southall](https://ksouthall2022.github.io/DATA150/)
+- [Sebastian Ruiz](https://seabass1000.github.io/DATA-150/)
+- [Bryan Huffman](https://bryanhuffman.github.io/data/)
 - [Ziyue Feng](https://ziyue-feng.github.io/data150_work/)
-- [Bryan Huffman](https://bryanhuffman.github.io/DATA-150/)
-- [Kaori Southall](https://github.com/ksouthall2022/coll-150)
-- [Sebastian Ruiz](...)
-- [Karl Utheim](...)
 

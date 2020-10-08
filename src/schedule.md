@@ -53,17 +53,23 @@
 		- [Big Data, new epistemologies and paradigm shifts by Rob Kitchin](https://slack-files.com/TFB8EJWF3-F01AVRBTH45-e5bb3a6a58)
 
 ## Week 7 (September 28th)
-- Tuesday:
-- Thursday:
+- Tuesday: Themes, topics and concepts
+- Thursday: Anderson and Kitchen discussion
 
 ## Week 8 (October 5th)
-- Tuesday:
-- Thursday:
-	- Human Development & Data Science Insights: Select and then investigate a new and interesting data science method that is being applied to a human development problem. Write a brief introduction to the method including describing how it functions as well as how it is typically applied. Post your 1 page insight piece to your GitHub Pages site and be sure to link it back to your index. Be prepared to make a 5 minute presentation on your human development & data science insight during class.
+- Tuesday: Literature Review workshop
+- Thursday: Literature Review workshop
+	- For next time:
+		- [The Implications of Complexity for Development by Owen Barder](https://www.cgdev.org/media/implications-complexity-development-owen-barder)
 
 ## Week 9 (October 12th)
-- Tuesday:
+- Tuesday:  
+	- Literature Review workshop
+	- The Implications of Complexity for Development by Owen Barder (first half)
 - Thursday:
+	- Literature Review workshop
+	- The Implications of Complexity for Development by Owen Barder (second half)
+	- Human Development & Data Science Insights: Select and then investigate a new and interesting data science method that is being applied to a human development problem. Write a brief introduction to the method including describing how it functions as well as how it is typically applied. Post your 1 page insight piece to your GitHub Pages site and be sure to link it back to your index. __No class presentation will be required this time__.
 - Saturday:
 	- Assignment 2 due 
 

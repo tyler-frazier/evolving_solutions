@@ -13,5 +13,5 @@
 - [Kaori Southall](https://ksouthall2022.github.io/DATA150/)
 - [Sebastian Ruiz](https://seabass1000.github.io/DATA-150/)
 - [Bryan Huffman](https://bryanhuffman.github.io/data/)
-- [Ziyue Feng](https://ziyue-feng.github.io/data150_work/)
+- [Ziyue Feng](https://ziyue-feng.github.io/COLL-150-DATA-SCIENCE-WORK/)
 

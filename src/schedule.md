@@ -74,17 +74,24 @@
 	- Assignment 2 due 
 
 ## Week 10 (October 19th)
-- Tuesday:
-- Thursday:
+- Tuesday: 
+	- Workshop - discuss literature review
+- Thursday: 
+	- Workshop - type of research inquiry
 
 ## Week 11 (October 26th)
-- Tuesday:
-- Thursday: 
+- Tuesday: 
+	- Workshop - theoretical framework
+	- final presentation assignment
+- Thursday:
+	- [Geoff West, Scale - Chapter 1](https://slack-files.com/TFB8EJWF3-F01CQFPR6KZ-c6f30d9318) 
 
 ## Week 12 (November 2nd)
 - Tuesday:
+	- [Geoff West, Scale - Chapter 7 and afterword](https://slack-files.com/TFB8EJWF3-F01CQFPR6KZ-c6f30d9318)
 - Thursday:
-	- Human Development & Data Science Knowledge Creation  
+	- Human Development & Data Science Knowledge Creation
+		- In-class essay  
 - Saturday:
 	- Assignment 3 due 
 

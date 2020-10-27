@@ -2,7 +2,7 @@
 
 ## Summary
 
-The final assignment of this course has two parts. First, you will individually present the results of your research during our in-class colloquium on human development and data science. The colloquium will be held on Tuesday, **December 3rd** and Thursday, **December 5th**.
+The final assignment of this course has two parts. First, you will individually present the results of your research during our in-class colloquium on human development and data science. The colloquium will be held on Tuesday, **November 10th** and Thursday, **November 12th**.
 
 ## Presentation
 
@@ -10,7 +10,7 @@ Over the course of this semester you have defined a development related problem,
 
 ### Step 1. Write an abstract and give your presentation a title
 
-Draft an abstract and give your presentation a title. Review and edit your abstract, which should be less than a page in length, single spaced. Write your abstract, including title, your name and the date you will present. Post your abstract to slack channel data150\_assignment4 by midnight Friday, **November 22nd**.
+Draft an abstract and give your presentation a title. Review and edit your abstract, which should be less than a page in length, single spaced. Write your abstract, including title, your name and the date you will present. Post your abstract to slack by midnight Friday, **November 6th**.
 
 ### Step 2. Prepare the slides for your presentation
 
@@ -21,7 +21,7 @@ Prepare to speak for 10 minutes and include a presentation slide that addresses 
 * Identify an area of the literature that requires further investigation. Discuss how data or models fail to describe, analyze or predict some essential element of your selected geospatial human development process. Align your central research question such that it addresses your defined research gap. Position this newly formed central research question in relation to both the broader and more specific questions you had previously articulated.
 * Propose a research plan that you will implement in order to answer your central research question. Focus on the design of the plan rather than cost. Keep in mind a 1 year time frame from the point of approval and funding to achieving planned goals and objectives.
 
-Post a final draft of your slides to slack channel data150\_assignment4 by midnight the day before your presentation.
+Post a final draft of your slides to slack by midnight the day before your presentation.
 
 #### Step 3. Present your research during the colloquium
 

@@ -2,7 +2,7 @@
 
 ## Summary
 
-The final assignment of this course has two parts. First, you will individually present the results of your research during our in-class colloquium on human development and data science. The colloquium will be held on Wednesday, **November 18th** from 9AM until noon.
+Th final assignment of this course has two parts. First, you will individually present the results of your research during our in-class colloquium on human development and data science. The colloquium will be held on Wednesday, **November 18th** from 9AM until noon.
 
 ## Presentation
 

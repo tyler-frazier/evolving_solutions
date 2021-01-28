@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/schedule_old.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/describe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/syllabus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expect.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/work_old.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wtiix2it" />
+  </component>
+  <component name="ProjectId" id="1ndk7kCLKcQI0rC1G4aQHDrgmIH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="" />
+      <created>1611727189504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611727189504</updated>
+      <workItem from="1611727190619" duration="23000" />
+      <workItem from="1611811242658" duration="865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

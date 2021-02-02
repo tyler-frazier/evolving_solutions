@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/schedule_old.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/describe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/syllabus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expect.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/schedule.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/work.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/work_old.md" afterDir="false" />
+    <list default="true" id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/print.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/searchindex.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchindex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/syllabus.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/syllabus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syllabus.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/syllabus.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +22,15 @@
     <option name="directoryName" value="wtiix2it" />
   </component>
   <component name="ProjectId" id="1ndk7kCLKcQI0rC1G4aQHDrgmIH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -47,8 +52,31 @@
       <option name="presentableId" value="Default" />
       <updated>1611727189504</updated>
       <workItem from="1611727190619" duration="23000" />
-      <workItem from="1611811242658" duration="865000" />
+      <workItem from="1611811242658" duration="1273000" />
+      <workItem from="1612138953590" duration="2000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1611812351890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611812351890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1611812421605</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611812421605</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1611812515811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611812515811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +92,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

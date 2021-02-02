@@ -4,9 +4,9 @@ Course ID: DATA 150
 Course Attribute: COLL 150   
 Title: Evolving Solutions: Human Development/Data Science  
 Credit Hours: 4  
-Meeting Times: 9:30 to 10:50 TTh 
-Location: Morton Hall 244  
-Date Range: Aug 26,2020 - Dec 15,2020   
+Meeting Times: 9:30 to 10:50 TTh  
+Location: Remote Synchronous Off-Campus  
+Date Range: Spring Semester 2021   
 
 # Course Description  
 

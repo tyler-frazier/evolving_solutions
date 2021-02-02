@@ -10,6 +10,7 @@
 ## Week 2 (2/1)
 - Tuesday:
 	- Using Markdown & Github
+	- [Don’t forget people in the use of big data for development, Joshua Blumenstock.  Nature: Sept. 10, 2018](https://www.nature.com/articles/d41586-018-06215-5)
 - Thursday:
 	- ...
 - Friday: add/drop period ends

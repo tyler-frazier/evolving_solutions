@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/docs/assignment4pt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/work.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/work.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assignment3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assignment4pt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment4pt1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assignments.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/print.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchindex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/searchindex.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchindex.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/syllabus.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/syllabus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/schedule.md" afterDir="false" />
-    </list>
+    <list default="true" id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +53,7 @@
       <workItem from="1611811242658" duration="1273000" />
       <workItem from="1612138953590" duration="2000" />
       <workItem from="1612274790283" duration="644000" />
-      <workItem from="1612488670680" duration="1032000" />
+      <workItem from="1612488670680" duration="1739000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1611812351890</created>
@@ -101,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612274987090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1612489776210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612489776210</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1612490026334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612490026334</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

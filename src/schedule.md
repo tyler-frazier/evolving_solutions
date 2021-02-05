@@ -21,7 +21,8 @@
 
 ## Week 3 (2/8)
 - Tuesday:
-	- Introduce Assignment 1: Write an Annotated Bibliography
+	- Introduce Assignment 1: 
+	  	- [Write an Annotated Bibliography](assignment1.html)
 - Thursday:
 	- ...
 - Friday: Spring Break Day, No Class (2/12)

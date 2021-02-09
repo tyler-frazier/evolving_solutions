@@ -23,6 +23,9 @@
 - Tuesday:
 	- Introduce Assignment 1: 
 	  	- [Write an Annotated Bibliography](assignment1.html)
+		- For next time:
+			- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Introduction: Development as Freedom
+			- Discuss possible human development topic selections
 - Thursday:
 	- ...
 - Friday: Spring Break Day, No Class (2/12)

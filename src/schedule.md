@@ -27,25 +27,26 @@
 			- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Introduction: Development as Freedom
 			- Discuss possible human development topic selections
 - Thursday:
-	- ...
+	- Discuss Assignment 1
+	- Topic consideration
 - Friday: Spring Break Day, No Class (2/12)
 
 ## Week 4 (2/15)
 - Tuesday:
-	- ...
+	- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Chapter 1: Development as Freedom
 - Thursday:
-	- ...
-
-
+	- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Chapter 2: Development as Freedom
+	
 ## Week 5 (2/22)
 - Tuesday:
 	- ...
 - Thursday:
 	- ...
+- Sunday: Annotated bibliography due at midnight
 
 ## Week 6 (3/1)
 - Tuesday:
-	- ...
+	- Introduce Assignment 2
 - Thursday: Spring Break Day, No Class (3/4)
 
 ## Week 7 (3/8)
@@ -59,6 +60,7 @@
 	- ...
 - Thursday:
 	- Post Spring Break Day (3/17), Open Session / Workshop
+- Sunday: Literature Review due at midnight
 
 ## Week 9 (3/22)
 - Tuesday:

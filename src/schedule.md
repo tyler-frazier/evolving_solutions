@@ -39,21 +39,24 @@
 	
 ## Week 5 (2/22)
 - Tuesday:
-	- ...
+	- Review annotations and discuss topic development
 - Thursday:
-	- ...
+	- Review annotations and discuss topic development
 - Sunday: Annotated bibliography due at midnight
 
 ## Week 6 (3/1)
 - Tuesday:
 	- Introduce Assignment 2
+	- For next time:
+		- [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete, Chris Anderson.  Wired: June 23, 2008](https://www.wired.com/2008/06/pb-theory/)
+		- [Big Data, new epistemologies and paradigm shifts, Rob Kitchin.  Big Data & Society: April 1, 2014](https://journals.sagepub.com/doi/full/10.1177/2053951714528481)
 - Thursday: Spring Break Day, No Class (3/4)
 
 ## Week 7 (3/8)
 - Tuesday:
-	- ...
+	- Workshop
 - Thursday:
-	- ...
+	- Workshop
 
 ## Week 8 (3/15)
 - Tuesday:

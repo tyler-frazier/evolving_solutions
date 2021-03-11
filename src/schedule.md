@@ -54,9 +54,14 @@
 
 ## Week 7 (3/8)
 - Tuesday:
-	- Workshop
+	- for next time:
+		- Add at least one new citation to your critical analysis
+		- Discuss Kitchin
 - Thursday:
 	- Workshop
+	- for next time:
+		- [Development and Complexity by Owen Barder](https://www.youtube.com/watch?v=02EZPxPcFqs)
+		- Discuss your outline
 
 ## Week 8 (3/15)
 - Tuesday:

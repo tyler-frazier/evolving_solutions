@@ -6,7 +6,7 @@
 - [Bree Jiang](https://breej27.github.io/data150-bree/)
 - [Dayshelay Evans](https://daeshe.github.io/DATA_150_Dayshelay/)
 - [Hrishik Rangaraju](https://rhrishik02.github.io/data150/)
-- [Jack Hayes](https://jeghayes.github.io/Data_150_Example/)
+- [Jack Hayes](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/)
 - [Jason Bao](https://jasonbao1219.github.io/DATA150/)
 - [Jialu Tao](https://jialut.github.io/DATA-150---Jtao/)
 - [Jingwen Yao](https://jingwen-yao94.github.io/data150/)

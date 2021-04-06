@@ -1,1 +1,1 @@
-# Data Uses for Human and Community Scale Development Processes
+# Repository housing all content related to the DATA/COLL 150 Course - Human Development and Data Science

@@ -86,6 +86,8 @@
 - Tuesday: Spring Break Day, No Class (4/6)
 - Thursday:
 	- Post Spring Break Day (4/7), Open Session / Workshop
+	- for next time:
+	   - [Scale by Geoff West](https://wmdsp.slack.com/files/U01JVGU7TGE/F01TP4Y055Y/west_scale.pdf)
 
 ## Week 12 (4/12)
 - Tuesday:
@@ -98,6 +100,8 @@
 	- ...
 - Thursday:
 	- ...
+- Sunday: Methods paper due at midnight
+
 
 ## Week 14 (4/26)
 - Tuesday:

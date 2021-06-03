@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f1291b-3b77-42d2-acc1-dbadadd001e4" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/assignment4pt2_short.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/work_f20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/work_s21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assignment3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assignment4pt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment4pt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assignment4pt2_short.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignment4pt2_short.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assignments.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assignments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/print.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/searchindex.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchindex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/syllabus.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/syllabus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/work.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment4pt2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment4pt2_long.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/work_s21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work_old.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/work_f20.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +84,10 @@
       <workItem from="1617731864239" duration="444000" />
       <workItem from="1617887881611" duration="774000" />
       <workItem from="1619224879143" duration="242000" />
-      <workItem from="1620659890590" duration="687000" />
+      <workItem from="1620659890590" duration="970000" />
+      <workItem from="1620665192473" duration="630000" />
+      <workItem from="1621276279421" duration="388000" />
+      <workItem from="1622738093512" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1611812351890</created>
@@ -217,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620659913770</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1620660609008</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620660609008</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update">
+      <created>1620660781157</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1620660781157</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

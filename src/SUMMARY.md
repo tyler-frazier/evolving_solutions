@@ -8,7 +8,9 @@
 	- [Assignment 4a](./assignment4pt1.md)
 	- [Assignment 4b](assignment4pt2_short.md)
 	
-[Student Work](work.md)  
+[Student Work-Spring 21](work_s21.md)  
+[Student Work-Fall 20](work_f20.md)  
+
 
 
 

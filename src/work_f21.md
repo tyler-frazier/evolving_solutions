@@ -1,0 +1,22 @@
+# Student Work
+
+-   [Grace Yoon](https://grace-yoon1.github.io/DATA150/)
+-   [Connor MacKinnon](https://cdmackinnon.github.io/wicked_problems/)  
+-   [Alina Uzakpayeva](https://auzakpayeva.github.io/wicked_problems/)  
+-   [Austin Hegedus](https://austinhegedus.github.io/wicked_problems/)  
+-   [Arthur Kim](https://arthurkim25.github.io/DATA-150/)
+-   [Lila Yimtatu](https://lilayim.github.io/Human-Development-Data-Science/)  
+-   [Emily Pettinato](https://ebpettinato.github.io/DATA-150-Emily-Pettinato/)  
+-   [Peter Rizkallah](https://peterrizkallah.github.io/HDDS/)  
+-   [Sam Cooper](https://sjcooper01.github.io/wicked_problems/)  
+-   [Anne Marie Kuebler](https://aekuebler.github.io/wicked_problems/)  
+-   [Rhea Malhotra](https://rmalhotra02.github.io/DATA150/)  
+-   [Courtney Maynard](https://courtney-maynard.github.io/COLL150-Data-HD/)
+-   [Micah Chang](https://Micahchang.github.io/Data-150/)
+-   [Olivia Meyer](https://github.com/otmeyer/data150hd-ds)
+-   [Timothy Yeh](https://tiyeh25.github.io/DATA150_FALL_2021/)   
+-   [Gianna Simon](https://gisimon23.github.io/DATA150-HD/ )
+-   [Carlo Mehegan](https://carlomehegan.github.io/DATA-150/)
+-   [Alex Phan](https://alexthejpeg.github.io/wicked_problems/)
+-   [Peter Welling](https://github.com/Peterw25/Data-150.git)
+

@@ -14,19 +14,18 @@
 	- Response questions:
 		- Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis. Additionally, consider the following statements from three of your classmates regarding this article. (1) "Good intent is not enough in data science when dealing with the problems which determine people's experiences" *Anna Raymond* (2) "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results." *Nira Nair* (3) "In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult." *Kayla Seggelke* How do you respond to these ideas regarding "good intent", "transparency" and the difficult "balancing act" when considering the intersection of human development with data science? Please prepare your response for next Thursday's class.
 		
-- Thursday:
-	- For next time:
-		- [The Best Stats You've Ever Seen, Hans Rosling.  TEDx: February, 2006](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en)
-		- Response Questions:
-		  - What was Hans Rosling's observation regarding his camparitive survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?
-		  - What type of change took place in Asia that preceded economic growth?  Why was this type of change significant?
-		  -	In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?
-		  - In terms of income distribution, how has the world changed from 1962 until 2003?
-		  - What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions?  How does this relate to his previous observation regarding preconceived ideas?
-		  - In your opinion, why was Hans Rosling’s work with the Gapminder project significant as controbution towards advancing the intersection of data science and global human development?
-- Friday: add/drop period ends
-		- For next time:
-  			- [Development as Freedom by Amartya Sen](https://dsfall21.slack.com/files/U02DA5H2NGJ/F02E98U4ERX/sen_devfree_intro_2.pdf), Development as Freedom: Introduction
+- Thursday:  
+  	- [The Best Stats You've Ever Seen, Hans Rosling.  TEDx: February, 2006](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en)  
+  	- Response Questions:
+  		- What was Hans Rosling's observation regarding his comparative survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?  
+  		- What type of change took place in Asia that preceded economic growth?  Why was this type of change significant?
+  		- In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?  
+  		- In terms of income distribution, how has the world changed from 1962 until 2003?  
+  		- What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions?  How does this relate to his previous observation regarding preconceived ideas?  
+  		- In your opinion, why was Hans Rosling’s work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?  
+		- For next time:  
+  			- [Development as Freedom by Amartya Sen](https://dsfall21.slack.com/files/U02DA5H2NGJ/F02E98U4ERX/sen_devfree_intro_2.pdf), Development as Freedom: Introduction  
+	- Friday: add/drop period ends
 
 ## Week 3 (...)
 - Tuesday:

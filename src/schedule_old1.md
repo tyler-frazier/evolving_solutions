@@ -1,13 +1,13 @@
 # Semester Schedule
 
-## Week 1 (...)
+## Week 1 (1/27)
 - Thursday:
 	- Introductions
 		- Zoom, Slack, Blackboard & the Syllabus
 	- For next time:
 		- [Getting Started](https://tyler-frazier.github.io/dsbook/getting_started.html)
 
-## Week 2 (...)
+## Week 2 (2/1)
 - Tuesday:
 	- Using Markdown & Github
 	- [Don’t forget people in the use of big data for development, Joshua Blumenstock.  Nature: Sept. 10, 2018](https://www.nature.com/articles/d41586-018-06215-5)
@@ -19,7 +19,7 @@
 		- [The Best Stats You've Ever Seen, Hans Rosling.  TEDx: February, 2006](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en)
 - Friday: add/drop period ends
 
-## Week 3 (...)
+## Week 3 (2/8)
 - Tuesday:
 	- Introduce Assignment 1: 
 	  	- [Write an Annotated Bibliography](assignment1.html)
@@ -29,15 +29,15 @@
 - Thursday:
 	- Discuss Assignment 1
 	- Topic consideration
-- Friday: ...
+- Friday: Spring Break Day, No Class (2/12)
 
-## Week 4 (...)
+## Week 4 (2/15)
 - Tuesday:
 	- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Chapter 1: Development as Freedom
 - Thursday:
 	- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Chapter 2: Development as Freedom
 	
-## Week 5 (...)
+## Week 5 (2/22)
 - Tuesday:
 	- Review annotations and discuss topic development
 - Thursday:
@@ -52,7 +52,7 @@
 		- [Big Data, new epistemologies and paradigm shifts, Rob Kitchin.  Big Data & Society: April 1, 2014](https://journals.sagepub.com/doi/full/10.1177/2053951714528481)
 - Thursday: Spring Break Day, No Class (3/4)
 
-## Week 7 (...)
+## Week 7 (3/8)
 - Tuesday:
 	- for next time:
 		- Add at least one new citation to your critical analysis
@@ -63,39 +63,39 @@
 		- [Development and Complexity by Owen Barder](https://www.youtube.com/watch?v=02EZPxPcFqs)
 		- Discuss your outline
 
-## Week 8 (...)
+## Week 8 (3/15)
 - Tuesday:
 	- ...
 - Thursday:
-	- Open Session / Workshop
+	- Post Spring Break Day (3/17), Open Session / Workshop
 - Sunday: Literature Review due at midnight
 
-## Week 9 (...)
+## Week 9 (3/22)
 - Tuesday:
 	- ...
 - Thursday:
 	- ...
 
-## Week 10 (...)
+## Week 10 (3/29)
 - Tuesday:
 	- ...
 - Thursday:
 	- ...
 
-## Week 11 (...)
-- Tuesday: ...
+## Week 11 (4/5)
+- Tuesday: Spring Break Day, No Class (4/6)
 - Thursday:
-	- Open Session / Workshop
+	- Post Spring Break Day (4/7), Open Session / Workshop
 	- for next time:
 	   - [Scale by Geoff West](https://wmdsp.slack.com/files/U01JVGU7TGE/F01TP4Y055Y/west_scale.pdf)
 
-## Week 12 (...)
+## Week 12 (4/12)
 - Tuesday:
 	- ...
 - Thursday:
 	- ...
 
-## Week 13 (...)
+## Week 13 (4/19)
 - Tuesday:
 	- ...
 - Thursday:
@@ -103,13 +103,13 @@
 - Sunday: Methods paper due at midnight
 
 
-## Week 14 (...)
+## Week 14 (4/26)
 - Tuesday:
-	- ...
+	- Post Spring Break Day (4/26), Open Session / Workshop
 - Thursday:
 	- ...
 
-## Week 15 (...)
+## Week 15 (5/3)
 - Tuesday:
 	- ...
 - Thursday: Last day of class

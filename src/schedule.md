@@ -52,9 +52,9 @@
 	- Review annotations and discuss topic development
 - Thursday:
 	- Review annotations and discuss topic development
-- Sunday: Annotated bibliography due at midnight
+- Saturday: Annotated bibliography due by 5PM
 
-## Week 6 (3/1)
+## Week 6 (...)
 - Tuesday:
 	- Introduce Assignment 2
 	- For next time:

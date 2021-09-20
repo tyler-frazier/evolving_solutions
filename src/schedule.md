@@ -44,7 +44,7 @@
 ## Week 4 (9/19)
 - Tuesday:
   	- For next time:
-  		- [Development as Freedom by Amartya Sen](...)
+  		- [Development as Freedom by Amartya Sen](...), Development as Freedom: Chapter 2
 - Thursday:
   	- For next time:
 		- [Geoff West, Scale - Chapter 1](...)
@@ -67,7 +67,7 @@
 	- For next time:
 		- [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete, Chris Anderson.  Wired: June 23, 2008](https://www.wired.com/2008/06/pb-theory/)
 		- [Big Data, new epistemologies and paradigm shifts, Rob Kitchin.  Big Data & Society: April 1, 2014](https://journals.sagepub.com/doi/full/10.1177/2053951714528481)
-- Thursday: Spring Break Day, No Class (3/4)
+- Thursday:
 
 ## Week 7 (10/10)
 - Tuesday:
@@ -76,8 +76,7 @@
 	- for next time: [add reading]
 
 ## Week 8 (10/17)
-- Tuesday:
-	- for next time: [add reading]
+- Tuesday: no class, fall break
 - Thursday:
 	- for next time: [add reading]
 - Sunday: Literature Review due at midnight
@@ -127,4 +126,4 @@
 	- Final Presentations
 
 ## Final
-- Final Project is due on the last day of the finals period at 5PM.
+- Research plan is due no later than December 21st by 5PM.

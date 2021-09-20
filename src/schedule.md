@@ -39,7 +39,6 @@
 	- Topic consideration
 	- For next time:
 	  	- [Development and Complexity by Owen Barder](https://www.youtube.com/watch?v=02EZPxPcFqs)
-- Friday: ...
 
 ## Week 4 (9/19)
 - Tuesday:
